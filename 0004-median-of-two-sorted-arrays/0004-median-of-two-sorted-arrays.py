@@ -18,7 +18,6 @@ class Solution:
                     max(maxLeftX, maxLeftY)
                     + min(minRightX, minRightY)
                 ) / 2
-
             elif maxLeftX > minRightY:
                 right = partitionX - 1
             else:
