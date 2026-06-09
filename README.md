@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +25,16 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0008-string-to-integer-atoi) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
