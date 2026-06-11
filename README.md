@@ -52,8 +52,21 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
