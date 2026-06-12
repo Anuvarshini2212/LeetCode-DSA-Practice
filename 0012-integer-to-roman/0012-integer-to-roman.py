@@ -15,12 +15,9 @@ class Solution:
             (4, "IV"),
             (1, "I")
         ]
-
         res = ""
-
         for value, symbol in roman:
             while num >= value:
                 res += symbol
                 num -= value
-
         return res
