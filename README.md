@@ -26,6 +26,7 @@
 | [0007-reverse-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
@@ -34,10 +35,12 @@
 | [0008-string-to-integer-atoi](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
