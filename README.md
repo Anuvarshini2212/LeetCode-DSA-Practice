@@ -31,6 +31,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0198-house-robber) |
@@ -70,5 +72,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
