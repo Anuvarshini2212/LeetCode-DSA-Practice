@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
@@ -86,4 +88,8 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
