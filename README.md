@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -104,6 +106,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -116,7 +119,12 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
