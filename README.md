@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -146,4 +148,12 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
