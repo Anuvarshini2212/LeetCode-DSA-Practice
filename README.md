@@ -46,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0198-house-robber) |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 ## Tree
 |  |
 | ------- |
