@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0018-4sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -76,6 +78,7 @@
 | [0011-container-with-most-water](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
 ## Greedy
