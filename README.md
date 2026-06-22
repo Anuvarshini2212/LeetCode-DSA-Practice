@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
