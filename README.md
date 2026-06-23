@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -50,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -60,6 +62,7 @@
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -68,6 +71,7 @@
 | [0015-3sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 ## Counting
