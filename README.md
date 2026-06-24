@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Counting
 |  |
 | ------- |
@@ -167,8 +170,13 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
