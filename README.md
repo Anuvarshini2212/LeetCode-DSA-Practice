@@ -101,6 +101,7 @@
 | [0016-3sum-closest](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
