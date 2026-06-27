@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
@@ -115,6 +116,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
@@ -132,6 +134,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
