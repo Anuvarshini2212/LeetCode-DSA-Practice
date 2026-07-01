@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@
 | [0013-roman-to-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
