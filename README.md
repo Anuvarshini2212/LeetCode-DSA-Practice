@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -219,4 +220,9 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
