@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,6 +167,7 @@
 | [0022-generate-parentheses](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0046-permutations) |
 ## Tree
 |  |
 | ------- |
