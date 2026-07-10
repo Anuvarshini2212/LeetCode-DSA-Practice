@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -113,6 +114,7 @@
 | [0022-generate-parentheses](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
