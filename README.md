@@ -23,6 +23,7 @@
 | [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -90,6 +91,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -235,6 +237,7 @@
 | [0036-valid-sudoku](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
