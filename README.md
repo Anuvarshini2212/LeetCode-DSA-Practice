@@ -76,6 +76,7 @@
 | [0038-count-and-say](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -117,6 +118,7 @@
 | [0062-unique-paths](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0198-house-robber) |
