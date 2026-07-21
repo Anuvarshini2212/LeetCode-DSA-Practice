@@ -75,6 +75,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -152,6 +153,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
