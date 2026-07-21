@@ -38,6 +38,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0070-climbing-stairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3099-harshad-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/3099-harshad-number) |
 ## String
