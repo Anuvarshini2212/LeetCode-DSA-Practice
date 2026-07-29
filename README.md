@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3099-harshad-number](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/3099-harshad-number) |
 ## String
@@ -238,6 +240,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Memoization
 |  |
