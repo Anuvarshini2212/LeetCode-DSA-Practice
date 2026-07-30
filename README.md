@@ -199,6 +199,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -218,6 +220,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -261,4 +264,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
