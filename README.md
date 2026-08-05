@@ -20,6 +20,7 @@
 | [0046-permutations](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
@@ -123,6 +125,7 @@
 | [0010-regular-expression-matching](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0064-minimum-path-sum) |
