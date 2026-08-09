@@ -32,6 +32,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@
 | [0070-climbing-stairs](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0189-rotate-array) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -149,6 +151,7 @@
 | [0031-next-permutation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
 ## Greedy
