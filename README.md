@@ -91,6 +91,7 @@
 | [0071-simplify-path](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
@@ -154,6 +155,7 @@
 | [0031-next-permutation](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
