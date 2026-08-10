@@ -92,6 +92,7 @@
 | [0072-edit-distance](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
