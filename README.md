@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0169-majority-element](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anuvarshini2212/LeetCode-DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
